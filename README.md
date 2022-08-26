@@ -15,3 +15,5 @@ This code also assumes that you have mopac on your system(Download MOPAC: http:/
 The code will ask you for the numkber of structures you want to do the calculation on and you then have to name all the structures and give the Smiles as asked.
 
 Then specify all the functionals you want to use for the calculation. 
+
+Run the python file using python.
